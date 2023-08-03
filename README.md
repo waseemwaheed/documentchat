@@ -1,7 +1,7 @@
 # README
 
 ## Project description
-A document chat application with with Streamlit based web application.
+A document chat application with Streamlit based web application.
 
 The application allows the user to upload one or more pdf documents and then interrogate them using natural english.
 
