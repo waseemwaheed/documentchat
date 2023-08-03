@@ -1,0 +1,12 @@
+services:
+  app:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    # image: "01"
+    container_name: "llm01"
+    command: streamlit run app/main.py
+    ports:
+      - 80:80
+    volumes:
+      - .:/code
