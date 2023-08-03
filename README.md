@@ -5,7 +5,7 @@ A document chat application with Streamlit based web application.
 
 The application allows the user to upload one or more pdf documents and then interrogate them using natural english.
 
-The project built with LangChain and uses OpenAI's API to generate the embeddings for the document(s) which are then stored in a FAISS vector database.
+The project is built with LangChain and uses OpenAI's API to generate the embeddings for the document(s) which are then stored in a FAISS vector database.
 
 ## How To
 
